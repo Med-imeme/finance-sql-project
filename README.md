@@ -1,7 +1,9 @@
 # 📊 Finance SQL Practice Project
-This repository was created to practice and apply the SQL concepts I learned in the course "SQL for Data Science".
-My goal is to demonstrate the practical use of SQL in finance, especially in analyzing financial operations, currencies, investments, and company performance using structured queries.
-NB: all data are generated randomly using python
+This repository was created to **practice and apply** the SQL concepts I learned in the course "SQL for Data Science."
+
+My goal is to demonstrate the **practical use of SQL in finance**, especially in analyzing financial operations, currencies, investments, and company performance using structured queries.
+
+> **NB:** All data are generated randomly using Python.
 ## 📁 problems solved
  1) Basic SELECT & Filtering (part 1)  
 - List all financial operations that occurred in TND currency.  
