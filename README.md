@@ -2,7 +2,7 @@
 This repository was created to practice and apply the SQL concepts I learned in the course "SQL for Data Science".
 My goal is to demonstrate the practical use of SQL in finance, especially in analyzing financial operations, currencies, investments, and company performance using structured queries.
 NB: all data are generated randomly using python
-problems solved 
+## 📁 problems solved
    1)Basic SELECT & Filtering (part1)
 List all financial operations that occurred in TND currency.
 Find all operations of type "Octroi de prêt" done by Tunis Finance.
