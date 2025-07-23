@@ -1,4 +1,4 @@
-# 📊 Finance SQL Practice Project
+# 📈 Finance SQL Practice Project
 This repository was created to **practice and apply** the SQL concepts I learned in the course "SQL for Data Science."
 
 My goal is to demonstrate the **practical use of SQL in finance**, especially in analyzing financial operations, currencies, investments, and company performance using structured queries.
